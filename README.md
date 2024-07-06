@@ -47,7 +47,7 @@ EDA involved exploring the songs data to answer key questions, such as:
 
   ### Results/Findings
 
-  The analysis results are summarized as follows:
+  The analysis results are summarized as follows: 
   1. The song with the highest likecount is title Vaaste song: Dhyani Bhanushai,Tanishk Bagchi| NikhilD|Bhushan Kuma|Radhika Rao,Ninay sapru with a count of 12840215.
   2.  The song with the highest viewcount is title Vaaste song: Dhyani Bhanushai,Tanishk Bagchi| NikhilD|Bhushan Kuma|Radhika Rao,Ninay sapru with a total of 1536719459
   3.  Songs wiht the longest duration is title, Harmonious Himesh-101 hits of Himesh Reshammiya with a duration of 0.37
