@@ -14,3 +14,29 @@ Power Bi
 - Data Cleaning
 - Data Analysis
 - Visualization
+
+### Data Cleaning/Preparation
+
+In the intial preparation phase, I performed the following;
+1. Data loading and inspection.
+2. handle missing values and outliers.
+3. Data cleaning and formatting.
+
+### Exploratory Data Analysis(EDA).
+EDA involved exploring the songs data to answer key questions, such as:
+
+- Explore patterns and distributions in view counts, like counts, and comments.
+- Identify trends in the popularity and engagement of YouTube song videos.
+- Analyze the distribution of videos across different channels.
+- Identify popular tags and their correlation with view counts.
+- Explored how YouTube song video metrics vary over time.
+- Identified peak publishing times and their impact on engagement.
+- Investigated relationships between likes, comments, and views.
+- Identified factors influencing user engagement with YouTube song videos.
+
+
+
+
+
+ 
+ 
