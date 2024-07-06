@@ -12,7 +12,7 @@
 ---
 
 This Project aims to conduct a comprehensive analysis of YouTube songs data using Power BI. This analysis aims to uncover trends,preferneces and patterns in the data. The goal is to utilize Power BI to create insightful visualizations and reports that provide a deeper understanding of YouTube songs’performance, popualrity and user engagement.
-
+DASHBOARD
 ![Dashboard (2)](https://github.com/Kamilah8/Songs_Analysis/assets/66366192/667b9c21-3a9f-49d7-bfc7-06c330ca3163)
 ![Dashboard](https://github.com/Kamilah8/Songs_Analysis/assets/66366192/73281a63-004c-4050-80fc-dea727723f22)
 
