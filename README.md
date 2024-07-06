@@ -35,6 +35,14 @@ EDA involved exploring the songs data to answer key questions, such as:
 - Identified factors influencing user engagement with YouTube song videos.
 
 
+  ### Results/Findings
+
+  The analysis results are summarized as follows:
+  1. The song with the highest likecount is title Vaaste song: Dhyani Bhanushai,Tanishk Bagchi| NikhilD|Bhushan Kuma|Radhika Rao,Ninay sapru with a count of 12840215.
+  2. 
+  
+
+
 
 
 
